@@ -1,0 +1,19 @@
+{
+  "name": "projeto-com-threejs",
+  "version": "1.0.0",
+  "description": "projeto captura de cena",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gildongledson/Projeto-com-THREEJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gildongledson/Projeto-com-THREEJS/issues"
+  },
+  "homepage": "https://github.com/Gildongledson/Projeto-com-THREEJS#readme"
+}
